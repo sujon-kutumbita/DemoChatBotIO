@@ -38,7 +38,7 @@ setup(name='chatbotio',
             'requests-oauthlib==1.0.0',
             'six==1.11.0',
             'SQLAlchemy==1.2.13',
-            'urllib3==1.24.1',
+            'urllib3==1.26.5',
             'eventlet'
       ]
       )
